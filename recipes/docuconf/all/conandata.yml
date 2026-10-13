@@ -1,0 +1,4 @@
+sources:
+  "0.2.1":
+    url: "https://github.com/docuconf/docuconf-cpp/releases/download/v0.2.1/docuconf-cpp-0.2.1.tar.gz"
+    sha256: "e1952ae09996129864be4a45d1ec57fdf0660abd8cbacb47525a2f101960ddc2"
